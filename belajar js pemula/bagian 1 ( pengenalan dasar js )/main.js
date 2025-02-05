@@ -23,6 +23,9 @@ const umur = 17;
 console.log(nama); // Output: capyeobo
 console.log(umur); // Output: 17
 
+// console.log() adalah fungsi di JavaScript yang digunakan untuk menampilkan output ke konsol 
+// (biasanya di Developer Tools pada browser). Fungsi ini berguna untuk debugging atau menampilkan informasi selama proses pengembangan.
+
 
 // 🎯 Tugas Pertama
 // Coba buat variabel nama, umur, dan hobi dengan let atau const.
