@@ -20,7 +20,7 @@
 let nama = "capyeobo";
 const umur = 17;
 
-console.log(nama); // Output: Ayu
+console.log(nama); // Output: capyeobo
 console.log(umur); // Output: 17
 
 
